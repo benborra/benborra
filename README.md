@@ -1,10 +1,10 @@
 Hi, I'm Ben 👋
 
-I currently work as an Internal Tools software developer 💻 at Skyline Communications.<br>
-Here I'm working on <a href="https://catalog.dataminer.services/">Catalog</a> and <a href="https://collaboration.dataminer.services/">Collaboration</a>.<br>
-<a href="https://skyline.be/jobs/jobs/software-developer-internal-tools" >Want to join</a>? 
+I currently work as a Software Consulant 💻 at Noest.<br>
+Currently I'm manly focussed on working as a software developer and team lead.<br>
+ 
 <br><br>
-Currently working on some side projects 🎼<br>
+Currently working on some side projects 🎼🌍<br>
 Enjoying the occasional beer 🍻
 
 <!---
