@@ -10,7 +10,7 @@ Enjoying the occasional beer 🍻
 <br>
 <br>
 
-Find out more at [www.benborra.com](www.benborra.com).
+Find out more at [www.benborra.com](https://www.benborra.com).
 
 <!---
 benborra/benborra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
