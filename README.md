@@ -1,10 +1,10 @@
 Hi, I'm Ben 👋
 
 I currently work as a Software Consulant 💻 at [Noest](https://noest.be).<br>
-Currently I'm manly focussed on working as a software developer and team lead.<br>
+I'm manly focussed on working as a software developer and team lead.<br>
  
 <br>
-Currently working on some side projects 🎼🌍<br>
+Other than that, I'm working on some side projects 🎼🌍<br>
 Enjoying the occasional beer 🍻
 
 <br>
